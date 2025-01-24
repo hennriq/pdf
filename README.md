@@ -5,4 +5,4 @@
 > mvn package\
 > docker build -t app-name .\
 > docker images\
-> docker run -p 8080:8080 image-id\
+> docker run -p 8080:8080 image-id
