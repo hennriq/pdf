@@ -1,6 +1,5 @@
 #### Como rodar local no docker?
 #### Comandos úteis
-> commands to deploy in docker:\
 > mvn clean install\
 > mvn package\
 > docker build -t app-name .\
