@@ -1,0 +1,3 @@
+com\jasperreport\example\pdf\PdfApplication.class
+com\jasperreport\example\pdfcontroller\ReportController.class
+com\jasperreport\example\pdf\service\JasperReportService.class
